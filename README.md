@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Spencer12219
 - 👀 I’m interested in ...stuff
 - 🌱 I’m currently learning ...to code
-- 💞️ I’m looking to collaborate on ...nothing mabey something
+- 💞️ I’m looking to collaborate on ...nothing maybe something
 - 📫 How to reach me ...figure it out
 
 <!---
